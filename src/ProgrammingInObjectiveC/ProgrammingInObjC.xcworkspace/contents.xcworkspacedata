@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:NonARCProject/NonARCProject.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ProtocolDelegate/ProtocolDelegate.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Block/Block.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CollectionComplexObject/CollectionComplexObject.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Property/Property.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Array2/Array2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Array1/Array1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:StringOperation2/StringOperation2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:StringOperation1/StringOperation1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ReferenceCounting/ReferenceCounting.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:NSStringSample/NSStringSample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:NSNumberSample/NSNumberSample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Categories/Categories.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GobalVariable/GobalVariable.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:InitializationMethod/InitializationMethod.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SelectorReflectionLike/SelectorReflectionLike.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DynamicBinding/DynamicBinding.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OOP/OOP.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SynthesizedAccessor/SynthesizedAccessor.xcodeproj">
+   </FileRef>
+</Workspace>
